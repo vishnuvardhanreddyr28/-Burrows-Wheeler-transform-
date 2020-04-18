@@ -69,4 +69,4 @@ def pattern_match(pattern1,pattern2):
             print(len(pattern1)-suffix_array[pos]-1)
    
     
-pattern_match("panamabanana","ana")
+pattern_match("abcdefghi","bcd")
